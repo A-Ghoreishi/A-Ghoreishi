@@ -13,7 +13,9 @@ Feel free to contact me:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com) 
-[![cpp](https://camo.githubusercontent.com/cd7e24b6d077658f419aaa173b20cde5cadb5fe3ed659fb0848b95e4037a46b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667)]
+<a href="https://example.com">
+  <img src="https://camo.githubusercontent.com/cd7e24b6d077658f419aaa173b20cde5cadb5fe3ed659fb0848b95e4037a46b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" width="50" height="50" alt="Icon"/>
+</a>
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
 
 ## Machine Learning Related
