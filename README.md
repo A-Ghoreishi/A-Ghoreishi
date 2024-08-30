@@ -11,12 +11,18 @@ Feel free to contact me:
 
 ## Tools and Technologies
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com) 
+<a href="https://example.com">
+  <img src="https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="50" height="50" alt="Icon"/>
+</a>
+<a href="https://example.com">
+  <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="50" height="50" alt="Icon"/>
+</a>
 <a href="https://example.com">
   <img src="https://camo.githubusercontent.com/cd7e24b6d077658f419aaa173b20cde5cadb5fe3ed659fb0848b95e4037a46b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" width="50" height="50" alt="Icon"/>
 </a>
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
+<a href="https://example.com">
+  <img src="https://camo.githubusercontent.com/b5a316a445d392b6f33cf315ebae56acecb547a7ac3a62c6931eb81ddbc813c6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" width="50" height="50" alt="Icon"/>
+</a>
 
 ## Machine Learning Related
 [Cats and Dogs Classification](https://github.com/A-Ghoreishi/Machine-learning-Cats-and-Dogs)
