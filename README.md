@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ailin Ghoreishi, I'm a Computer Science Student in my 2nd year. So far, I have learned programming in C++, Java and Python and I also have developped an interest in exciting fields of machine learning and artificial intelligence. Aside from that, I am eager to learn everything about programming and developping and to find teams to collaborate with
+I'm Ailin Ghoreishi, I'm a Computer Science Student in my 3rd year. So far, I have learned programming in C++, Java and Python and I also have developped an interest in exciting fields of machine learning and ai engineering. Aside from that, I am eager to learn everything about programming and developping and to find teams to collaborate with
 
 ## Contact
 Feel free to contact me:
